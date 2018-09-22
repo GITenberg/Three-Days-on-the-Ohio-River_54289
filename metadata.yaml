@@ -1,0 +1,24 @@
+_repo: Three-Days-on-the-Ohio-River_54289
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, William A. (William Andrus)
+    alias: Alcott, William Andrus
+    birthdate: 1798
+    deathdate: 1859
+    gutenberg_agent_id: '2959'
+    url: http://www.gutenberg.org/2009/agents/2959
+    wikipedia: http://en.wikipedia.org/wiki/William_Alcott
+description: ''
+gutenberg_issued: '2017-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Three Days on the Ohio River
+url: http://www.gutenberg.org/ebooks/54289
